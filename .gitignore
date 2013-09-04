@@ -1,0 +1,9 @@
+*.class
+# Vim Files#
+*~
+*.swp
+
+# Package Files #
+*.jar
+*.war
+*.ear
