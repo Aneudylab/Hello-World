@@ -7,3 +7,5 @@
 *.jar
 *.war
 *.ear
+# Carpeta para cosas de prueba #
+status/
